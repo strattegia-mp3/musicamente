@@ -41,7 +41,8 @@
     },
     "extra": {
       "eas": {
-        "projectId": "97443ce2-cf28-43ee-bc64-1899a40f7a85"
+        "projectId": "97443ce2-cf28-43ee-bc64-1899a40f7a85",
+        "slug": "musicamente"
       }
     }
   }
